@@ -1,0 +1,4 @@
+http://serveritrenato.byethost7.com/wp/
+
+user:admin
+pass: A10B20C30
